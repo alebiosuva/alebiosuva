@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=250&section=header&text=Alebiosu%20Oluwadamilare%20Samuel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Virtual%20Assistant%20%7C%20Your%20Time%20Matters&descAlignY=58&descSize=20" width="100%" alt="Alebiosu Oluwdamilare Samuel — Virtual Assistant banner" />
 
-# ✨ Alebiosu Oluwadamilare Samuel
+#  Alebiosu Oluwadamilare Samuel
 
 ### Virtual Assistant for Ambitious People & Growing Businesses
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## ⚡ Your Behind-the-Scenes Productivity Partner
+##  Your Behind the Scenes Productivity Partner
 
 </div>
 
