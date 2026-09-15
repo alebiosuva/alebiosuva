@@ -131,10 +131,10 @@ Content scheduling, engagement support, caption drafting, and basic content orga
 
 ```mermaid
 flowchart LR
-    A["💬 01<br/>Tell Me What You Need"] --> B["🧠 02<br/>We Set Priorities"]
-    B --> C["⚙️ 03<br/>I Get to Work"]
-    C --> D["✅ 04<br/>You Get Clear Updates"]
-    D --> E["📈 05<br/>More Time to Grow"]
+    A[" 01<br/>Tell Me What You Need"] --> B[" 02<br/>We Set Priorities"]
+    B --> C[" 03<br/>I Get to Work"]
+    C --> D[" 04<br/>You Get Clear Updates"]
+    D --> E[" 05<br/>More Time to Grow"]
 ```
 
 </div>
@@ -160,10 +160,10 @@ flowchart LR
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-- **Professional support** — I represent your business with care and a polished approach.
-- **Flexible assistance** — Support that can adapt to your workflow and changing priorities.
-- **Confidential and dependable** — Your tasks, information, and time are treated with respect.
-- **Results-focused** — Every task has one purpose: helping you operate more smoothly.
+- **Professional support** I represent your business with care and a polished approach.
+- **Flexible assistance** Support that can adapt to your workflow and changing priorities.
+- **Confidential and dependable** Your tasks, information, and time are treated with respect.
+- **Results-focused** Every task has one purpose: helping you operate more smoothly.
 
 ---
 
@@ -199,7 +199,7 @@ flowchart LR
 
 ##  Let’s Work Together
 
-### Ready to get more done—with less stress?
+### Ready to get more done with less stress?
 
 Whether you need ongoing support or help with a specific project, I’m ready to help you reclaim your time and keep your work moving.
 
