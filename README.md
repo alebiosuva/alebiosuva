@@ -238,14 +238,6 @@ For enquiries and collaborations.
 
 <div align="center">
 
-## 🔗 Find Me Online
-
-<!-- Replace each # with your real social-media profile link. -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-YOUR_HANDLE-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
 
 <br/><br/>
 
