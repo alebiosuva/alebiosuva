@@ -35,14 +35,14 @@ I help founders, executives, entrepreneurs, and busy professionals stay focused 
 <tr>
 <td width="50%" align="center">
 
-### 🎯 Focus on Growth
+###  Focus on Growth
 
 Spend less time buried in admin and more time on the work only you can do.
 
 </td>
 <td width="50%" align="center">
 
-### 🧩 Stay Organized
+###  Stay Organized
 
 Simple systems, clear priorities, and dependable follow-through.
 
@@ -51,14 +51,14 @@ Simple systems, clear priorities, and dependable follow-through.
 <tr>
 <td width="50%" align="center">
 
-### 💬 Communicate Clearly
+###  Communicate Clearly
 
 Professional updates and responsive support, without the guesswork.
 
 </td>
 <td width="50%" align="center">
 
-### ⏱️ Save Valuable Time
+###  Save Valuable Time
 
 Get recurring tasks and one-off projects handled efficiently.
 
@@ -70,7 +70,7 @@ Get recurring tasks and one-off projects handled efficiently.
 
 <div align="center">
 
-## 🛠️ Services Built Around Your Needs
+##  Services Built Around Your Needs
 
 </div>
 
@@ -78,21 +78,21 @@ Get recurring tasks and one-off projects handled efficiently.
 <tr>
 <td width="33%" align="center">
 
-### 📅 Calendar & Scheduling
+###  Calendar & Scheduling
 
 Meeting coordination, appointment booking, reminders, travel planning, and calendar management.
 
 </td>
 <td width="33%" align="center">
 
-### 📥 Inbox Management
+###  Inbox Management
 
 Email sorting, prioritization, replies, follow-ups, and keeping important conversations moving.
 
 </td>
 <td width="33%" align="center">
 
-### 🔎 Research & Data Entry
+###  Research & Data Entry
 
 Online research, lead lists, competitor research, data collection, spreadsheet updates, and reports.
 
@@ -101,21 +101,21 @@ Online research, lead lists, competitor research, data collection, spreadsheet u
 <tr>
 <td width="33%" align="center">
 
-### 🗂️ Admin & Organization
+###  Admin & Organization
 
 Document preparation, file organization, task tracking, SOPs, and operational support.
 
 </td>
 <td width="33%" align="center">
 
-### 💼 Customer Support
+###  Customer Support
 
 Friendly client communication, enquiry handling, follow-ups, and support coordination.
 
 </td>
 <td width="33%" align="center">
 
-### 📱 Social Media Assistance
+###  Social Media Assistance
 
 Content scheduling, engagement support, caption drafting, and basic content organization.
 
@@ -127,7 +127,7 @@ Content scheduling, engagement support, caption drafting, and basic content orga
 
 <div align="center">
 
-## 🚀 How We Work Together
+##  How We Work Together
 
 ```mermaid
 flowchart LR
@@ -150,13 +150,13 @@ flowchart LR
 
 <div align="center">
 
-## 💎 Why Choose Me?
+##  Why Choose Me?
 
 </div>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  DETAIL-ORIENTED  •  PROACTIVE  •  RELIABLE  •  ORGANIZED    ║
+║  DETAIL ORIENTED  •  PROACTIVE  •  RELIABLE  •  ORGANIZED    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -169,13 +169,11 @@ flowchart LR
 
 <div align="center">
 
-## 📊 At a Glance
+##   At a Glance
 
-> *Replace these illustrative placeholders with your real experience and results.*
-
-| ⭐ Client Experience | ✅ Tasks Completed | ⏰ On-Time Delivery | 🌍 Remote Support |
-|:---:|:---:|:---:|:---:|
-| **[YOUR RATING]** | **[YOUR NUMBER]+** | **[YOUR %]%** | **[YOUR REGIONS]** |
+|  **Client Experience** |  **Tasks Completed** |  **On-Time Delivery** |  **Remote Availability** |
+|:------------------------:|:----------------------:|:------------------------:|:--------------------------:|
+| **7+** | **50+** | **95%+** | **Worldwide** |
 
 </div>
 
@@ -183,7 +181,7 @@ flowchart LR
 
 <div align="center">
 
-## 🧰 Tools I Can Work With
+##  Tools I Can Work With
 
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
@@ -199,7 +197,7 @@ flowchart LR
 
 <div align="center">
 
-## 🌟 Let’s Work Together
+##  Let’s Work Together
 
 ### Ready to get more done—with less stress?
 
@@ -215,7 +213,7 @@ Whether you need ongoing support or help with a specific project, I’m ready to
 <tr>
 <td align="center" width="50%">
 
-### 💬 WhatsApp
+###  WhatsApp
 
 **[+234 814 157 1631](https://wa.me/2348141571631)**
 
@@ -224,7 +222,7 @@ Quick message? Let’s chat.
 </td>
 <td align="center" width="50%">
 
-### ✉️ Email
+###  Email
 
 **[alebiosuva@gmail.com](mailto:alebiosuva@gmail.com)**
 
