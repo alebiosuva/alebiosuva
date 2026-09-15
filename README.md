@@ -5,15 +5,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=250&section=header&text=YOUR%20NAME&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Virtual%20Assistant%20%7C%20Your%20Time%20Matters&descAlignY=58&descSize=20" width="100%" alt="Virtual Assistant banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=250&section=header&text=Alebiosu%20Oluwadamilare%20Samuel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Virtual%20Assistant%20%7C%20Your%20Time%20Matters&descAlignY=58&descSize=20" width="100%" alt="Alebiosu Oluwdamilare Samuel — Virtual Assistant banner" />
 
-# ✨ Virtual Assistant for Ambitious People & Growing Businesses
+# ✨ Alebiosu Oluwadamilare Samuel
 
-### I turn busy schedules, scattered tasks, and endless admin into calm, organized progress.
+### Virtual Assistant for Ambitious People & Growing Businesses
 
 [![WhatsApp](https://img.shields.io/badge/Chat_on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348141571631)
 [![Email](https://img.shields.io/badge/Send_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alebiosuva@gmail.com)
-[![Available](https://img.shields.io/badge/Status-Available_for_work-00C896?style=for-the-badge)](#-lets-work-together)
+[![Available](https://img.shields.io/badge/Status-Available_for_Work-00C896?style=for-the-badge)](#-lets-work-together)
 
 <br/>
 
@@ -185,17 +185,13 @@ flowchart LR
 
 ## 🧰 Tools I Can Work With
 
-<img src="https://skillicons.dev/icons?i=google,notion,trello,slack,discord,figma,canva&theme=light" alt="Google Workspace, Notion, Trello, Slack, Discord, Figma and Canva" />
-
-<br/><br/>
-
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
@@ -244,12 +240,12 @@ For enquiries and collaborations.
 
 ## 🔗 Find Me Online
 
-<!-- Replace the # links below with your real profile links. -->
+<!-- Replace each # with your real social-media profile link. -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YOUR_HANDLE]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-[YOUR_HANDLE]-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X_[Twitter]-[YOUR_HANDLE]-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-[YOUR_HANDLE]-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-YOUR_HANDLE-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
 
 <br/><br/>
 
