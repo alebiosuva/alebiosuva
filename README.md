@@ -29,7 +29,7 @@
 
 </div>
 
-I help founders, executives, entrepreneurs, and busy professionals stay focused by handling the details that take time away from their highest-value work. From inboxes and calendars to research, customer support, and digital organization—I bring structure, speed, and care to your day.
+I help founders, executives, entrepreneurs, and busy professionals stay focused by handling the details that take time away from their highest value work. From inboxes and calendars to research, customer support, and digital organization I bring structure, speed, and care to your day.
 
 <table>
 <tr>
