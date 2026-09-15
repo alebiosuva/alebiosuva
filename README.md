@@ -163,7 +163,7 @@ flowchart LR
 - **Professional support** I represent your business with care and a polished approach.
 - **Flexible assistance** Support that can adapt to your workflow and changing priorities.
 - **Confidential and dependable** Your tasks, information, and time are treated with respect.
-- **Results-focused** Every task has one purpose: helping you operate more smoothly.
+- **Results focused** Every task has one purpose helping you operate more smoothly.
 
 ---
 
