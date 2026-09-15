@@ -319,7 +319,7 @@ I help turn scattered tasks and information into clear, manageable workflows.
 Every business has a different workflow. I can adapt to existing processes, tools, and communication preferences.
 
 ### **Focused on Outcomes**
-The goal is not simply to complete tasks — it is to help make your workday more organized and productive.
+The goal is not simply to complete tasks it is to help make your workday more organized and productive.
 
 ### **Clear Communication**
 You should always know what has been completed, what is in progress, and what requires attention.
