@@ -295,11 +295,11 @@ flowchart LR
 
 | **Stage** | **What I Do** |
 |:---:|---|
-| **01 — Understand** | Understand the task, objective, expectations, and desired outcome. |
-| **02 — Prioritize** | Organize tasks according to urgency, importance, and deadlines. |
-| **03 — Execute** | Complete the work carefully using appropriate tools and workflows. |
-| **04 — Communicate** | Provide clear updates and flag important issues when necessary. |
-| **05 — Deliver** | Deliver completed work in an organized and professional format. |
+| **01 Understand** | Understand the task, objective, expectations, and desired outcome. |
+| **02 Prioritize** | Organize tasks according to urgency, importance, and deadlines. |
+| **03 Execute** | Complete the work carefully using appropriate tools and workflows. |
+| **04 Communicate** | Provide clear updates and flag important issues when necessary. |
+| **05 Deliver** | Deliver completed work in an organized and professional format. |
 
 ---
 
