@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-> **Reliable support. Organized workflows. Clear communication. More time for what matters.**
+**Reliable support. Organized workflows. Clear communication. More time for what matters.**
 
 </div>
 
